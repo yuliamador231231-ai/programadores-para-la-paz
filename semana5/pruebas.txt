@@ -1,0 +1,11 @@
+Ruta: /
+
+Al acceder a esta ruta, el servidor respondió con el mensaje "Servidor activo", indicando que la aplicación se encuentra funcionando correctamente.
+
+Ruta: /saludo
+
+Al acceder a esta ruta, el servidor respondió con el mensaje "Hola comunidad", demostrando que puede devolver respuestas específicas según la ruta solicitada.
+
+Ruta: /mensaje/juan
+
+Al acceder a esta ruta, el servidor respondió con el mensaje "Hola juan". Esto muestra cómo se pueden recibir parámetros desde la URL para personalizar la respuesta.
