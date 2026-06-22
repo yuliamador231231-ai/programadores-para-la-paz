@@ -1,0 +1,5 @@
+1. No exponer datos personales.
+2. Usar contraseñas seguras.
+3. Limitar accesos según roles.
+4. Activar autenticación segura.
+5. Registrar actividades de usuarios.

@@ -1,0 +1,5 @@
+uname -a muestra información del sistema operativo, versión del kernel y arquitectura del sistema.
+
+whoami muestra el usuario que está actualmente conectado en el sistema.
+
+Esto es útil porque permite identificar el entorno del servidor y saber quién está ejecutando acciones, lo cual ayuda en la seguridad y administración del sistema.
