@@ -1,0 +1,15 @@
+Es importante que las plataformas comunitarias funcionen en servidores estables porque así los usuarios pueden acceder a la información sin interrupciones.
+
+Un servidor permite que la aplicación responda a las solicitudes de los usuarios en tiempo real.
+
+Si no hay estabilidad, la plataforma puede fallar y generar desconfianza.
+
+La seguridad también es importante para proteger los datos y credenciales.
+
+Los logs ayudan a identificar errores y mejorar el sistema.
+
+Node.js facilita la creación de servidores rápidos y eficientes.
+
+Comprender cómo funciona un servidor ayuda a administrar mejor las aplicaciones.
+
+En general, un buen servidor garantiza confianza, continuidad y seguridad en la plataforma.
